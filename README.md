@@ -1,1 +1,1 @@
-Constucuting a profitable ESG consistent portfolio using Black-Litterman framework and quadratic programming.
+Constructing a profitable ESG consistent portfolio using Black-Litterman framework and quadratic programming.
