@@ -1,1 +1,1 @@
-Constructing a profitable ESG consistent portfolio using Black-Litterman framework and quadratic programming.
+Constructing a profitable ESG consistent portfolio using Black-Litterman framework and quadratic programming.Ignore first file and the files that contain snippets of code from work that may or may not have been incorporated into final project. Final commit is screenshot of final code output.
